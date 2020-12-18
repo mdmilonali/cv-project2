@@ -1,0 +1,42 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;font-size: 20px;box-sizing: border-box;
+}
+.jan{
+    background-color: rgb(160, 160, 235);pad: 10px;margin: 10px;border-radius: 5px;
+color: white;   
+}
+.list-info {
+    width: 300px;
+    padding: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 49px;
+   float: left;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: block;
+}
+.body-midele{
+    width: 600px;padding: 15px;float: left;
+}
+.ima{
+    width: 100%;
+}
+.janpaki{
+    width: 400px;float: right;box-sizing: border-box;background-color: aquamarine;margin-right: 20px;
+}
+.histo-info, .histo-infor{
+    padding: 10px;margin: 10px;
+}
+.footer-info{
+    background-color: black;width: 98%;box-sizing: border-box;padding: 15px;margin: 15px;margin: 0 auto;overflow: hidden;color: white;
+}
+p.footer-info{
+    text-align: center;font-size: 25px;
+}
